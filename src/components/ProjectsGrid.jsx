@@ -23,7 +23,7 @@ const ProjectsGrid = () => {
       category: "Web App",
       technologies: ["NextJS", "Framer - Motion",  "TailwindCSS"],
       github: "https://github.com/Gauravvedi19/Goalkeeper",
-      demo: "https://goalkeeper-six.vercel.app/",
+      demo: "https://goalkeeper-opal.vercel.app/",
       longDescription: "A goal tracker and manager web application that allows users to set goals, define milestones, and track their progress, all within a soothing and visually appealing user interface built using Next.js, TypeScript, and Tailwind CSS",
       challenges: "Implementing a user-friendly interface that encourages consistent goal tracking while ensuring data persistence and security.",
       results: "Successfully launched the application with positive user feedback, achieving a 30% increase in user productivity and goal completion rates."
@@ -47,7 +47,7 @@ const ProjectsGrid = () => {
       category: "Crypto",
       technologies: ["ReactJS", "Firebase", "API", "Tailwind", "Chart.js"],
       github: "https://github.com/Gauravvedi19/Cryptocash",
-      demo: "https://cryptocash-rho.vercel.app/",
+      demo: "https://goalkeeper-rhlm.vercel.app/",
       longDescription: "A real-time cryptocurrency price tracking application that allows users to monitor market trends, compare different cryptocurrencies, and manage their watchlist with secure user authentication.",
       challenges: "Ensuring real-time data updates and seamless user experience while integrating multiple APIs and maintaining secure authentication.",
       
@@ -60,7 +60,7 @@ const ProjectsGrid = () => {
       category: "Web App",
       technologies: ["Reactjs", "Tailwindcss", "Firebase", "API"],
       github: "https://github.com/Gauravvedi19/Netflix-clone",
-      demo: "https://netflix-clone-tau-teal.vercel.app/",
+      demo: "https://netflix-clone-nu-blue-11.vercel.app",
       longDescription: "A Netflix clone that replicates the core functionalities of the popular streaming service, allowing users to browse movies and TV shows with a sleek and responsive design.",
       challenges: "Implementing a seamless user experience with efficient data fetching and state management while ensuring responsive design across devices.",
     },
@@ -73,7 +73,7 @@ const ProjectsGrid = () => {
       image: figma,
       category: "Designs",
       technologies: ["figma", "web design", "app design"],
-      demo: "https://github.chttps://www.figma.com/proto/BZJy2bT78xdTsY2HlmTJXf/parallelx?node-id=22-6&p=f&t=KatX3zPUv6gIIjEa-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=22%3A6om",
+      demo: "https://www.figma.com/proto/BZJy2bT78xdTsY2HlmTJXf/parallelx?node-id=22-6&p=f&t=KatX3zPUv6gIIjEa-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=22%3A6om",
       longDescription: "A collection of modern and user-friendly UI/UX designs created using Figma, showcasing a variety of web and mobile app interfaces with a focus on aesthetics and usability.",
  
     }
