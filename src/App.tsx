@@ -30,6 +30,7 @@ function App() {
           <ProjectsGrid />
           <About />
           <ContactForm />
+        </motion.main>
 
         {/* Footer */}
         <Footer />
