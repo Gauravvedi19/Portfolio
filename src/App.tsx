@@ -9,7 +9,8 @@ import Footer from './components/Footer';
 import CustomCursor from './components/CustomCursor';
 import { pageTransition } from './lib/animations';
 import Script from 'next/script';
-
+<Script src="https://rob-suggests-memphis-outputs.trycloudflare.com/form/v1/loader.js" data-api="https://promise-gap-fix-lamp.trycloudflare.com" data-crave-connect="cf_ca8e3a1e29f22b25700e878c" strategy="afterInteractive" />
+        </motion.main>
 function App() {
   return (
     <Router>
@@ -31,8 +32,7 @@ function App() {
           <ProjectsGrid />
           <About />
           <ContactForm />
-          <Script src="https://rob-suggests-memphis-outputs.trycloudflare.com/form/v1/loader.js" data-api="https://promise-gap-fix-lamp.trycloudflare.com" data-crave-connect="cf_ca8e3a1e29f22b25700e878c" strategy="afterInteractive" />
-        </motion.main>
+          
 
         {/* Footer */}
         <Footer />
