@@ -30,7 +30,6 @@ function App() {
           <ProjectsGrid />
           <About />
           <ContactForm />
-          
 
         {/* Footer */}
         <Footer />
